@@ -14,3 +14,11 @@ from learntools.core import binder; binder.bind(globals())
 from learntools.pandas.creating_reading_and_writing import *
 print("Setup complete.")
 ```
+
+### Exercise #1
+In the cell below, create a DataFrame fruits that looks like this:
+|   | Apples | Bananas |
+|   | ------ | ------- |
+| 0 |   30   |    31   |
+
+
