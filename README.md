@@ -22,3 +22,9 @@ In the cell below, create a DataFrame fruits that looks like this:
 |   30   |    31   |
 
 
+###  Exercise #2
+| Apples | Bananas |
+| ------ | ------- |
+|   35   |   21    |
+|   41   |   34    |
+
