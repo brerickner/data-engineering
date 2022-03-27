@@ -17,8 +17,8 @@ print("Setup complete.")
 
 ### Exercise #1
 In the cell below, create a DataFrame fruits that looks like this:
-|   | Apples | Bananas |
-|   | ------ | ------- |
-| 0 |   30   |    31   |
+| Apples | Bananas |
+| ------ | ------- |
+|   30   |    31   |
 
 
